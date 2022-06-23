@@ -33,6 +33,7 @@ Contains metadata telling the editor which DLLs may be loaded and which engine v
 Note: Log and content files will be added by Unreal as needed as development continues
 
 ------------------
+For the following instructions, all commands are performed using windows command prompt
 ## Opening Compiled Project in Editor
 To launch with editor use:
 "C:\Program Files\Epic Games\UE_5.0\Engine\Binaries\Win64\UnrealEditor.exe" "C:\Users\Brayton\Documents\PlainJoe\PlainJoeStudios\UnrealProjects\Brayton\FromScratch\BraytonTemplate.uproject" -log
